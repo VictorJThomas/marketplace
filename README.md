@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Marketplace App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React + TypeScript + MUI project made with practice purposes
 
 ## Available Scripts
 
