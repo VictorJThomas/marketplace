@@ -1,11 +1,12 @@
 import './App.css';
-import { Button, Container } from '@mui/material';
+import { BrowserRouter } from 'react-router-dom';
+import { AppRouter } from './router';
 
 function App() {
   return (
-    <Container maxWidth="xl">
-      <Button variant="contained">Hola Mundo</Button>
-    </Container>
+    <BrowserRouter>
+      <AppRouter/>
+    </BrowserRouter>
   );
 }
 
